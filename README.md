@@ -46,3 +46,4 @@ this is horizontal line
 [my link](http://www.google.com)
 
 
+![alt text](image.png)
