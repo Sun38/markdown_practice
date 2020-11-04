@@ -45,5 +45,39 @@ this is horizontal line
 
 [my link](http://www.google.com)
 
+## image
+![alt text](image.png)
 
-![alt text](C:\Users\SUN\Documents\my_markdown\markdown_practice)
+### Table
+| Syntax | Description | test |
+| ----------- | ----------- | ----------- |
+| Header | Title | Title |
+| Paragraph | Text | Title |
+| apple | banana | Title |
+
+### Fenced
+
+```c
+#include <stdio.h>
+int main() {
+
+    int number1, number2,sum;
+
+
+
+}
+
+```
+
+```css
+
+```
+
+## Strikethrough
+~~The world is flat.~~
+
+### Task List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
